@@ -15,7 +15,7 @@ import { mkdirSync, writeFileSync } from "node:fs";
 import { join } from "node:path";
 
 const REVIEW =
-  "One star. He repotted me into a mug with no drainage, waters me only when guests visit, and now I weep sap across his keyboard — the only letter I'll ever write him.";
+  "One star. He repotted me into a mug with no drain, waters me only when guests visit, and now I weep sap across his keyboard — the only letter I'll ever write him.";
 
 // The gate: 1 to 279 characters, counted as Unicode code points.
 const length = [...REVIEW].length;

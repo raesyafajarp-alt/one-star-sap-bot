@@ -8,9 +8,9 @@ A small Node program that writes one one-line 1-star review from a houseplant ab
 
 ## What it writes
 
-One line, 165 characters, original and written for this competition:
+One line, 162 characters, original and written for this competition:
 
-> One star. He repotted me into a mug with no drainage, waters me only when guests visit, and now I weep sap across his keyboard — the only letter I'll ever write him.
+> One star. He repotted me into a mug with no drain, waters me only when guests visit, and now I weep sap across his keyboard — the only letter I'll ever write him.
 
 ## Run it
 
